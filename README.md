@@ -1,4 +1,10 @@
-# README
+## README
+小学生でもわかるRuby on Rails入門をベースに作っています。
+https://openbook4.me/projects/92/sections/488
+
+
+
+## 元からあったやつ
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -22,4 +28,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# rails_test2
+
