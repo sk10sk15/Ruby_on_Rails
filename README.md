@@ -1,6 +1,6 @@
 ## README
-小学生でもわかるRuby on Rails入門をベースに作っています。
-https://openbook4.me/projects/92/sections/488
+小学生でもわかるRuby on Rails入門をベースに作っています。<br>
+https://openbook4.me/projects/92/sections/488 <br>
 
 
 
