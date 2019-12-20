@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'test/html'
+  get 'test/erb'
+  get 'users/html'
+  get 'users/erb'
   get 'tweets/index'
   get 'tweets/show'
   get 'tweets/new'
