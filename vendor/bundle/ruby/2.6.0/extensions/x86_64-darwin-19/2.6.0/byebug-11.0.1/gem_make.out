@@ -1,0 +1,19 @@
+current directory: /Users/kitagawa/Documents/Ruby_on_Rails/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+/Users/kitagawa/.rbenv/versions/2.6.5/bin/ruby -I /Users/kitagawa/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20191224-51454-7t2kxs.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kitagawa/Documents/Ruby_on_Rails/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/kitagawa/Documents/Ruby_on_Rails/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/kitagawa/Documents/Ruby_on_Rails/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20191224-51454-v75fdb/byebug
